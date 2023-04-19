@@ -1,0 +1,5 @@
+com\ebanma\cloud\App.class
+com\ebanma\cloud\config\MyAutoConfiguration.class
+com\ebanma\cloud\anno\EnableRegisterServer.class
+com\ebanma\cloud\config\ConfigMarker.class
+com\ebanma\cloud\bean\SimpleBean.class
